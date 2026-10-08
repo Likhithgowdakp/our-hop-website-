@@ -1,4 +1,4 @@
-# our-hop-website-
+# our-shop-website-
 this is my first website , my website basically on our own shop and hole code is written by me withount using any ai tool....
 <br>
 author name  : Likhith gowda kp 
